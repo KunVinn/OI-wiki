@@ -18,7 +18,7 @@ S_0(n)&=n\\
 S_1(n)&=\frac{1}{2}n^2-\frac{1}{2}n\\
 S_2(n)&=\frac{1}{3}n^3-\frac{1}{2}n^2+\frac{1}{6}n\\
 S_3(n)&=\frac{1}{4}n^4-\frac{1}{2}n^3+\frac{1}{4}n^2\\
-S_4(n)&=\frac{1}{5}n^5-\frac{1}{2}n^4+\frac{1}{3}-\frac{1}{30}n
+S_4(n)&=\frac{1}{5}n^5-\frac{1}{2}n^4+\frac{1}{3}n^3-\frac{1}{30}n
 \end{aligned}
 $$
 
