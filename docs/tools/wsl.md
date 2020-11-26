@@ -235,7 +235,7 @@ sudo service xrdp restart
 
 ![](./images/WSL13.png)
 
-运行 `sudo service xrdp restart` ，然后去开始菜单，用 `localhost: 配置的端口` 来访问。
+运行 `sudo service xrdp restart` ，然后去开始菜单=》远程桌面连接(Remote Desktop Connection) mstsc.exe，用 `localhost:3390（配置的端口）` 来访问。
 
 ![](./images/WSL14.png)
 
